@@ -8,11 +8,6 @@
 	url = https://github.com/allanvc/emstreer
 	shallow = true
 	registered = true
-[submodule "mRpostman"]
-	path = mRpostman
-	url = https://github.com/allanvc/mrpostman
-	shallow = true
-	registered = true
 [submodule "onlineretail"]
 	path = onlineretail
 	url = https://github.com/allanvc/onlineretail
