@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "mRpostman",
+    "oncran": true
+  },
+  {
     "package": "onlineretail",
     "oncran": true
   }
