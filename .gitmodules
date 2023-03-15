@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "emstreeR"]
-	path = emstreeR
-	url = https://github.com/allanvc/emstreer
+[submodule "onlineretail"]
+	path = onlineretail
+	url = https://github.com/allanvc/onlineretail
 	shallow = true
 	registered = true
 [submodule "mRpostman"]
@@ -13,8 +13,8 @@
 	url = https://github.com/allanvc/mrpostman
 	shallow = true
 	registered = true
-[submodule "onlineretail"]
-	path = onlineretail
-	url = https://github.com/allanvc/onlineretail
+[submodule "emstreeR"]
+	path = emstreeR
+	url = https://github.com/allanvc/emstreer
 	shallow = true
 	registered = true
