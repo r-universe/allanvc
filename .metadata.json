@@ -1,6 +1,6 @@
 [
   {
-    "package": "onlineretail",
+    "package": "emstreeR",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "emstreeR",
+    "package": "onlineretail",
     "oncran": true
   }
 ]
