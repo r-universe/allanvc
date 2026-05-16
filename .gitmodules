@@ -11,3 +11,6 @@
 [submodule "onlineretail"]
 	path = onlineretail
 	url = https://github.com/allanvc/onlineretail
+[submodule "treeSS"]
+	path = treeSS
+	url = https://github.com/allanvc/treess
