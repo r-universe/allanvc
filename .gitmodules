@@ -5,6 +5,9 @@
 [submodule "emstreeR"]
 	path = emstreeR
 	url = https://github.com/allanvc/emstreer
+[submodule "jekylldown"]
+	path = jekylldown
+	url = https://github.com/allanvc/jekylldown
 [submodule "mRpostman"]
 	path = mRpostman
 	url = https://github.com/allanvc/mrpostman
